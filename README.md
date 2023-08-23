@@ -16,7 +16,7 @@ Desenvolvedor Junior.
 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donkaio1&theme=vision-friendly-dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donkaio1&theme=codeSTACKr&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=donkaio1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
