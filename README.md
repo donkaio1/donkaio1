@@ -20,6 +20,3 @@ Desenvolvedor Junior.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=donkaio1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=donkaio1&repo=dio-lab-open-source&theme=swift&show_icons=true)](https://github.com/donkaio1/dio-lab-open-source)
-
